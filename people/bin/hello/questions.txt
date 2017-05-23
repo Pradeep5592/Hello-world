@@ -1,0 +1,2 @@
+start microservice at fixed time or one after the other.
+distributionUrl=https\://repo.mindsphere.evosoft.com/repository/mindsphere-gradle/MindSphereGradle-5.0.1-bin.zip

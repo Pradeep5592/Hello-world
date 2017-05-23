@@ -1,0 +1,6 @@
+jONAS IMPORTING GRADLE PROJECT command-
+
+
+ren gradlew.xbat gradlew.bat
+
+.\gradlew classes --refresh-dependencies
